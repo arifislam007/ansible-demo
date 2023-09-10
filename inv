@@ -1,0 +1,2 @@
+[webservers]
+web ansible_host= 10.200.205.189
